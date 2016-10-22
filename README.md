@@ -22,8 +22,4 @@ You can optionally add a stylesheet to post-process these files. Files are
 output to the ./output directory. Post-processed files have an additional .out
 extension.
 
-The original ZIP file includes basicTable2Xis.xsl, which you can use to transform 
-the files to XIS 16. To use these files in XIS, remove the .out extension and copy them 
-to your workspace.
-
 
